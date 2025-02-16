@@ -2,7 +2,7 @@ package rk_instant
 
 import (
 	"fmt"
-	"go-step/log"
+	"github.com/mokanus/go-step/log"
 )
 
 func (self *Rank) updateImageMap() {

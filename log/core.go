@@ -1,7 +1,7 @@
 package log
 
 import (
-	"go-step/log/ubiquitous/log"
+	"github.com/mokanus/go-step/log/ubiquitous/log"
 	"path/filepath"
 )
 

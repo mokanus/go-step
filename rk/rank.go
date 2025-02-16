@@ -2,11 +2,11 @@ package rk
 
 import (
 	"github.com/globalsign/mgo/bson"
-	"go-step/app"
-	"go-step/g"
-	"go-step/log"
-	"go-step/log/ubiquitous/log/field"
-	"go-step/util"
+	"github.com/mokanus/go-step/app"
+	"github.com/mokanus/go-step/g"
+	"github.com/mokanus/go-step/log"
+	"github.com/mokanus/go-step/log/ubiquitous/log/field"
+	"github.com/mokanus/go-step/util"
 	"strings"
 	"sync"
 	"time"

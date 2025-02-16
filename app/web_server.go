@@ -3,8 +3,8 @@ package app
 import (
 	"fmt"
 	"github.com/gorilla/websocket"
-	"go-step/log"
-	"go-step/log/ubiquitous/log/field"
+	"github.com/mokanus/go-step/log"
+	"github.com/mokanus/go-step/log/ubiquitous/log/field"
 	"net/http"
 	"net/http/pprof"
 	"runtime/debug"

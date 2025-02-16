@@ -3,8 +3,8 @@ package app
 import (
 	"fmt"
 	"github.com/globalsign/mgo/bson"
-	"go-step/log"
-	"go-step/log/ubiquitous/log/field"
+	"github.com/mokanus/go-step/log"
+	"github.com/mokanus/go-step/log/ubiquitous/log/field"
 	"reflect"
 	"strings"
 )

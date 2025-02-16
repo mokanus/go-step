@@ -2,7 +2,7 @@ package field
 
 import (
 	"encoding/json"
-	"go-step/log/ubiquitous/log/field"
+	"github.com/mokanus/go-step/log/ubiquitous/log/field"
 	"go.uber.org/zap"
 )
 

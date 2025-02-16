@@ -2,8 +2,8 @@ package app
 
 import (
 	"github.com/golang/protobuf/proto"
-	"go-step/log"
-	"go-step/log/ubiquitous/log/field"
+	"github.com/mokanus/go-step/log"
+	"github.com/mokanus/go-step/log/ubiquitous/log/field"
 	"strconv"
 )
 

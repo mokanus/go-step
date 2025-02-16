@@ -1,6 +1,6 @@
 package log
 
-import "go-step/log/ubiquitous/log/field"
+import "github.com/mokanus/go-step/log/ubiquitous/log/field"
 
 type nopLogger struct{}
 

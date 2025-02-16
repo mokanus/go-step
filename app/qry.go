@@ -3,9 +3,9 @@ package app
 import (
 	"encoding/json"
 	"fmt"
-	"go-step/log"
-	"go-step/log/ubiquitous/log/field"
-	"go-step/util"
+	"github.com/mokanus/go-step/log"
+	"github.com/mokanus/go-step/log/ubiquitous/log/field"
+	"github.com/mokanus/go-step/util"
 	"io/ioutil"
 	"net/http"
 	"net/url"

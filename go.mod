@@ -1,4 +1,4 @@
-module go-step
+module github.com/mokanus/go-step
 
 go 1.23.4
 

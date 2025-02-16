@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"go-step/log"
+	"github.com/mokanus/go-step/log"
 	"io/ioutil"
 	"net/http"
 	"strings"

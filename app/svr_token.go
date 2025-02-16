@@ -2,8 +2,8 @@ package app
 
 import (
 	"fmt"
-	"go-step/log"
-	"go-step/util"
+	"github.com/mokanus/go-step/log"
+	"github.com/mokanus/go-step/util"
 	"io/ioutil"
 	"sync"
 )

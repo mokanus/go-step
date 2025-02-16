@@ -2,7 +2,7 @@ package app
 
 import (
 	"fmt"
-	"go-step/log"
+	"github.com/mokanus/go-step/log"
 	"net/http"
 )
 

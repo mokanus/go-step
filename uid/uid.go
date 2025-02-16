@@ -1,7 +1,7 @@
 package uid
 
 import (
-	"go-step/base36"
+	"github.com/mokanus/go-step/base36"
 	"sync"
 	"time"
 )

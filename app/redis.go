@@ -2,7 +2,7 @@ package app
 
 import (
 	"errors"
-	"go-step/pkg/github.com/gomodule/redigo/redis"
+	"github.com/mokanus/go-step/pkg/github.com/gomodule/redigo/redis"
 )
 
 type RedisConn struct {

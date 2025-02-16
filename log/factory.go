@@ -2,8 +2,8 @@ package log
 
 import (
 	"context"
-	"go-step/log/ubiquitous/log"
-	"go-step/log/ubiquitous/sign"
+	"github.com/mokanus/go-step/log/ubiquitous/log"
+	"github.com/mokanus/go-step/log/ubiquitous/sign"
 )
 
 // Init 内置日志库的初始化

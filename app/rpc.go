@@ -3,7 +3,7 @@ package app
 import (
 	"fmt"
 	"github.com/golang/protobuf/proto"
-	"go-step/log"
+	"github.com/mokanus/go-step/log"
 	"strconv"
 )
 

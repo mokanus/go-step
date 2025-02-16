@@ -2,10 +2,10 @@ package rk_instant
 
 import (
 	"fmt"
-	"go-step/app"
-	"go-step/g"
-	"go-step/log"
-	"go-step/util"
+	"github.com/mokanus/go-step/app"
+	"github.com/mokanus/go-step/g"
+	"github.com/mokanus/go-step/log"
+	"github.com/mokanus/go-step/util"
 	"sync"
 	"time"
 )

@@ -1,10 +1,10 @@
 package log
 
 import (
+	"github.com/mokanus/go-step/log/ubiquitous/log"
+	"github.com/mokanus/go-step/log/ubiquitous/log/field"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
-	"gs-scaffold/lib/src/framework/log/ubiquitous/log"
-	"gs-scaffold/lib/src/framework/log/ubiquitous/log/field"
 	"os"
 	"strings"
 )

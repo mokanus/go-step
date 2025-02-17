@@ -1,7 +1,7 @@
 package app
 
 import (
-	"github.com/mokanus/go-step/pkg/github.com/globalsign/mgo"
+	"github.com/globalsign/mgo"
 )
 
 type DbConn struct {

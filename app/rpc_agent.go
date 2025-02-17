@@ -3,8 +3,8 @@ package app
 import (
 	"errors"
 	"fmt"
+	"github.com/golang/protobuf/proto"
 	"github.com/mokanus/go-step/log"
-	"github.com/mokanus/go-step/pkg/github.com/golang/protobuf/proto"
 	"github.com/mokanus/go-step/util"
 )
 

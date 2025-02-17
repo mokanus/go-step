@@ -3,11 +3,11 @@ package app
 import (
 	"encoding/json"
 	"fmt"
+	"github.com/globalsign/mgo"
+	"github.com/golang/protobuf/proto"
 	"github.com/mokanus/go-step/base36"
 	"github.com/mokanus/go-step/log"
 	"github.com/mokanus/go-step/log/ubiquitous/log/field"
-	"github.com/mokanus/go-step/pkg/github.com/globalsign/mgo"
-	"github.com/mokanus/go-step/pkg/github.com/golang/protobuf/proto"
 	"github.com/mokanus/go-step/uid"
 	"github.com/mokanus/go-step/util"
 	"io/ioutil"
